@@ -1,0 +1,13 @@
+const GENERATION_LENGTH = 8
+    , ITERATIONS = 5
+    , SWAP_CHANCE = 0.7
+    , FILE_NAME = 'f4_l-d_kp_4_11'
+    , EXTREMUM_MODE = 'max'
+
+export {
+    GENERATION_LENGTH,
+    ITERATIONS,
+    SWAP_CHANCE,
+    FILE_NAME,
+    EXTREMUM_MODE,
+}
